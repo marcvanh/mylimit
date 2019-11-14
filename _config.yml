@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Find your BAC level in seconds!
     description                           : Use "My Limit" to easily track your Blood Alcohol level (BAC) in real-time & manage your alcohol consumption over time.
-    fontawesome_icon_name                 : tachometer-slow
+    fontawesome_icon_name                 : tachometer
     
   - title                                 : Real-time countdown timers
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
