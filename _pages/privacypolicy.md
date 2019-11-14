@@ -7,10 +7,9 @@ include_in_header: false
 **Last updated**  
 September 25, 2019
 
-#
 ## Mobile Application Privacy Policy
 
-##  &quot;My Limit&quot; Mobile Application &amp; &quot;My-Limit.com&quot; Website
+###  &quot;My Limit&quot; Mobile Application &amp; &quot;My-Limit.com&quot; Website
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY**
 
