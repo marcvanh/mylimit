@@ -147,7 +147,7 @@ The Application may contain (or you may be sent via the Application) links to ot
 
 You understand that by using any of the Services, You may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language, and that the results of any search or entering of a particular URL may automatically and unintentionally generate links or references to objectionable material. Nevertheless, You agree to use the Services at Your sole risk and that the Application Provider shall not have any liability to You for content that may be found to be offensive, indecent, or objectionable.
 
-# ADVERTISERS
+### ADVERTISERS
 
 We allow advertisers to display their advertisements and other information in certain areas of the Application, such as sidebar advertisements or banner advertisements.  If you are an advertiser, you shall take full responsibility for any advertisements you place on the Application and any services provided on the Application or products sold through those advertisements.  Further, as an advertiser, you warrant and represent that you possess all rights and authority to place advertisements on the Application, including, but not limited to, intellectual property rights, publicity rights, and contractual rights. [As an advertiser, you agree that such advertisements are subject to our Digital Millennium Copyright Act (&quot;DMCA&quot;) Notice and Policy provisions as described below, and you understand and agree there will be no refund or other compensation for DMCA takedown-related issues.]  We simply provide the space to place such advertisements, and we have no other relationship with advertisers.
 
@@ -173,12 +173,12 @@ If you believe your own copyrighted material has been removed from the Applicati
 
 If you send us a valid, written Counter Notification meeting the requirements described above, we will restore your removed or disabled material, unless we first receive notice from the party filing the Notification informing us that such party has filed a court action to restrain you from engaging in infringing activity related to the material in question. Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorney&#39;s fees. Filing a false Counter Notification constitutes perjury.
 
-Designated Copyright Agent:
-
-Martysoft, LLC 
-Attn: Copyright Agent 
-7722 Gooseneck Court 
-West Olive, MI 49460 
+Designated Copyright Agent:  
+  
+Martysoft, LLC  
+Attn: Copyright Agent  
+7722 Gooseneck Court  
+West Olive, MI 49460  
 
 ### COPYRIGHT INFRINGEMENTS
 
@@ -255,15 +255,16 @@ If any complaint with us is not satisfactorily resolved, you can contact the Com
 The Licensed Application and related documentation are &quot;Commercial Items&quot;, as that term is defined at 48 C.F.R. §2.101, consisting of &quot;Commercial Computer Software&quot; and &quot;Commercial Computer Software Documentation&quot;, as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms of use herein. Unpublished-rights reserved under the copyright laws of the United States.
 
 ### MISCELLANEOUS
-
+ad
 These Terms of use and any policies or operating rules posted by us on the Application constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of use shall not operate as a waiver of such right or provision.  These Terms of use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time.  We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control.  If any provision or part of a provision of these Terms of use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of use or use of the Application.  You agree that these Terms of use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of use and the lack of signing by the parties hereto to execute these Terms of use.
 
 ### CONTACT US
 
-In order to resolve a complaint regarding the Application or to receive further information regarding use of the Application, please contact us at:
- 
-MartySoft LLC 
-7722 Gooseneck Court 
-West Olive, MI  49460 
-(616) 606-0306 
-info@my-limit.com 
+In order to resolve a complaint regarding the Application or to receive further information regarding use of the Application, please contact us at:  
+  
+MartySoft LLC  
+7722 Gooseneck Court  
+West Olive, MI  49460  
+(616) 606-0306  
+info@my-limit.com  
+  
