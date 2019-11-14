@@ -12,7 +12,7 @@ presskit_download_link                    : #https://emilbaehr.com              
 app_icon                                  : /assets/icon.jpg # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : My Limit                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Use "My Limit" to easily track your Blood Alcohol level (BAC) in real-time & manage your alcohol consumption over time.
+app_description                           : Track your Blood Alcohol Content in real-time and Never Drink and Drive!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Find your BAC level in seconds!
-    description                           : Track your Blood Alcohol Content (BAC) in real-time with My Limit app and Never Drink and Drive!
+    description                           : Use "My Limit" to easily track your Blood Alcohol level (BAC) in real-time & manage your alcohol consumption over time.
     fontawesome_icon_name                 : magic
     
   - title                                 : Real-time countdown timers
