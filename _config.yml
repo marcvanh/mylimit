@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : car
     
   - title                                 : Real-time countdown timers
-    description                           : Multiple timers show your estimated time to sober (0.00% BAC) and your own custom limit (e.g. 0.08% BAC). Never Drink &amp; Drive!
+    description                           : Multiple timers show your estimated time to sober (0.00% BAC) and your own custom limit (e.g. 0.08% BAC). Never Drink & Drive!
     fontawesome_icon_name                 : stopwatch
 
   - title                                 : Choose from 100,000+ drinks!
