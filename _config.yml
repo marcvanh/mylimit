@@ -35,31 +35,31 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Find your BAC level in seconds!
-    description                           : Use "My Limit" to easily track your Blood Alcohol level (BAC) in real-time & manage your alcohol consumption over time.
+    description                           : Use "My Limit" to quickly estimate & track your Blood Alcohol level (BAC) in real-time.
     fontawesome_icon_name                 : car
     
   - title                                 : Real-time countdown timers
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : Multiple timers show your estimated time to sober (0.00% BAC) and your own custom limit (e.g. 0.08% BAC). Never Drink &amp; Drive!
     fontawesome_icon_name                 : stopwatch
 
-  - title                                 : Choose from 100,000+ drinks
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Choose from 100,000+ drinks!
+    description                           : Choose from thousands of drinks with custom alcohol % and sizes. Craft Beer? White Wine? Short pour? "My Limit" has em all!
     fontawesome_icon_name                 : glass-cheers
 
-  - title                                 : Drink history (day, week, month, year)
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Simple drink counter & history
+    description                           : Count your drinks and manage your alcohol use over time. You can view your drink history by day, week, month and year.
     fontawesome_icon_name                 : chart-bar
 
-  - title                                 : Simple drink counter
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : calculator
-  
   - title                                 : Add custom drinks
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : Can't find a drink in the app? Add it using the custom dials to set your exact drink size and alcohol %.
     fontawesome_icon_name                 : edit
 
   - title                                 : Easy to use interface!
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : We designed "My Limit" to be simple enough to use even when you're in party-mode!
+    fontawesome_icon_name                 : star
+
+  - title                                 : Free, Free, Free!
+    description                           : "My Limit" is 100% Free. Try it now – we know you'll love it!
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
