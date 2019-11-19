@@ -58,9 +58,9 @@ features                                  :
     description                           : We designed "My Limit" to be simple enough to use even when you're in party-mode!
     fontawesome_icon_name                 : star
 
-  - title                                 : Free, Free, Free!
-    description                           : "My Limit" is 100% Free. Try it now - we know you'll love it!
-    fontawesome_icon_name                 : star
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
