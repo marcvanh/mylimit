@@ -5,17 +5,17 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 25, 2019
+October 31, 2019
 
 ## Mobile Application Terms of Use
 
-### &quot;MY LIMIT&quot; MOBILE APPLICATION &amp; &quot;MY-LIMIT.COM&quot; WEBSITE
+### &quot;MY LIMIT&quot; MOBILE APPLICATION
 
 **PLEASE READ THESE TERMS OF USE CAREFULLY**
 
 ### AGREEMENT TO TERMS
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (&quot;you&quot;) and Martysoft, LLC(&quot;Martysoft&quot;, &quot;we,&quot; &quot;us&quot;, &quot;Application Provider&quot; or &quot;our&quot;), concerning your access to and use of the My Limit mobile application, My Limit Pro application and/or any in-application upgrades and My-limit.com website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the &quot;Application&quot;). You agree that by accessing the Application, you have read, understood, and agree to be bound by all of these Terms of Use.  IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APPLICATION AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+This End User License Agreement (EULA) constitute a legally binding agreement made between you, whether personally or on behalf of an entity (&quot;you&quot;) and Martysoft, LLC (&quot;Martysoft&quot;, &quot;we,&quot; &quot;us&quot;, &quot;Application Provider&quot; or &quot;our&quot;), concerning your access to and use of the My Limit app mobile application, My Limit app Pro application and/or any in-application upgrades and My-limit.com and/or Marytysoft.com websites as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the &quot;Application&quot;). You agree that by accessing the Application, you have read, understood, and agree to be bound by this license Agreement.  IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APPLICATION AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 CAUTION:  THIS APPLICATION IS INTENDED FOR USERS WHO ARE AT LEAST 18 YEARS OLD.  PERSONS UNDER THE AGE OF 13 ARE NOT PERMITTED TO REGISTER FOR OR USE THE APPLICATION.  ANY INFORMATION PROVIDED OR CONTAINED WITHIN OR FROM THIS APPLICATION IS FOR ENTERTAINMENT PURPOSES ONLY AND SHALL NOT BE CONSIDERED &quot;ADVICE&quot; AND SHOULD NOT BE CONSTRUED AS MEDICAL, LEGAL, OR FINANCIAL ADVICE ON ANY SUBJECT MATTER.   MARTYSOFT DISCLAIMS ALL LIABILITY IN REGARD TO ACTIONS TAKEN OR NOT TAKEN BASED ON ANY OR ALL OF THE CONTENTS ON THE APPLICATION. PLEASE NOTE THAT MARTYSOFT DOES NOT NECESSARILY ENDORSE, AND IS NOT RESPONSIBLE FOR, ANY THIRD-PARTY CONTENT THAT MAY BE DISPLAYED OR ACCESSED THROUGH THIS APPLICATION.
 
@@ -157,7 +157,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Application fo
 
 ### PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy available from within the mobile application settings page and on the my-limit.com website. By using the Application, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of use.  Please be advised the Application is hosted in the United States.  If you access the Application from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Application or Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.  Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children.  Therefore, in accordance with the U.S. Children&#39;s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Application as quickly as is reasonably practical.
+We care about data privacy and security. Please review our Privacy Policy available from within the mobile application settings page and on the My-limit.com and/or Martysoft.com website. By using the Application, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of use.  Please be advised the Application is hosted in the United States.  If you access the Application from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Application or Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children.  Therefore, in accordance with the U.S. Children&#39;s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Application as quickly as is reasonably practical.
 
 ### DIGITAL MILLENNIUM COPYRIGHT ACT (DMCA) NOTICE AND POLICY
 

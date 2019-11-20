@@ -5,15 +5,15 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 25, 2019
+October 31, 2019
 
 ## Mobile Application Privacy Policy
 
-###  &quot;My Limit&quot; Mobile Application &amp; &quot;My-Limit.com&quot; Website
+###  &quot;My Limit&quot; Mobile Application
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY**
 
-This privacy policy governs your use of the My Limit mobile application, My Limit Pro mobile application and/or any in-application upgrades &amp; My-Limit.com website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the &quot;Application&quot;) for mobile devices that was created by MartySoft, LLC (&quot;MarySoft&quot;).
+This privacy policy governs your use of the My Limit app mobile application, My Limit app Pro mobile applicationand/or any in-application upgrades &amp; My-Limit.com and/or Marysoft.com websites as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the &quot;Application&quot;) for mobile devices that was created by MartySoft, LLC (&quot;MarySoft&quot;).
 
 **CAUTION** :  THIS APPLICATION IS INTENDED FOR USERS WHO ARE AT LEAST 18 YEARS OLD.  PERSONS UNDER THE AGE OF 13 ARE NOT PERMITTED TO REGISTER FOR OR USE THE APPLICATION.  ANY INFORMATION PROVIDED OR CONTAINED WITHIN OR FROM THIS APPLICATION IS FOR ENTERTAINMENT PURPOSES ONLY AND SHALL NOT BE CONSIDERED &quot;ADVICE&quot; AND SHOULD NOT BE CONSTRUED AS MEDICAL, LEGAL, OR FINANCIAL ADVICE ON ANY SUBJECT MATTER.   MARTYSOFT DISCLAIMS ALL LIABILITY IN REGARD TO ACTIONS TAKEN OR NOT TAKEN BASED ON ANY OR ALL OF THE CONTENTS ON THE APPLICATION. PLEASE NOTE THAT MARTYSOFT DOES NOT NECESSARILY ENDORSE, AND IS NOT RESPONSIBLE FOR, ANY THIRD-PARTY CONTENT THAT MAY BE DISPLAYED OR ACCESSED THROUGH THIS APPLICATION.
 
@@ -45,7 +45,7 @@ When you visit the mobile application, we may use GPS technology (or other simil
 
 #### Do third parties see and/or have access to information obtained by the Application?
 
-Yes. We will share your information with third parties only in the ways that are described in this privacy statement.
+Yes. We will share your information with third parties ONLY in the ways that are described in this privacy statement.  Note that we will NEVER share your identifiable drink history with anyone.
 
 We may disclose User Provided and Automatically Collected Information:
 
@@ -54,6 +54,7 @@ We may disclose User Provided and Automatically Collected Information:
 - with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 - if MartySoft is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 - to advertisers and third-party advertising networks and analytics companies as described in the section below
+- Note that we will NEVER share your identifiable drink history with anyone.
 
 #### Automatic Data Collection and Advertising
 
