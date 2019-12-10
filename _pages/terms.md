@@ -31,3 +31,77 @@ Supplemental terms or documents that may be posted on the Application from time 
 
 The information provided on the Application is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Application from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
+
+
+### INTELLECTUAL PROPERTY RIGHTS
+
+Unless otherwise indicated, the Application is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Application (collectively, the &quot;Content&quot;) and the trademarks, service marks, and logos contained therein (the &quot;Marks&quot;) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions.  The Content and the Marks are provided on the Application &quot;AS IS&quot; for your information and personal use only.  Except as expressly provided in this EULA, no part of the Application and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+
+Provided that you are eligible to use the Application, you are granted a limited license to access and use the Application and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Application, Content and the Marks.
+
+### USER REPRESENTATIONS
+
+By using the Application, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete;(2) you will maintain the accuracy of such information and promptly update such registration information as necessary;(3) you have the legal capacity and you agree to comply with this EULA; (4) you are not under the age of 13; (5) not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Application; (6) you will not access the Application through automated or non-human means, whether through a bot, script or otherwise; (7) you will not use the Application for any illegal or unauthorized purpose;  and (8) your use of the Application will not violate any applicable law or regulation.
+
+If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Application (or any portion thereof).
+
+### USER REGISTRATION
+
+You may be required to register with the Application for the use of some features. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
+
+
+
+### PROHIBITED ACTIVITIES
+
+You may not access or use the Application for any purpose other than that for which we make the Application available. The Application may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+
+As a user of the Application, you agree not to:
+
+1. systematically retrieve data or other content from the Application to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+2. make any unauthorized use of the Application, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+3. use a buying agent or purchasing agent to make purchases on the Application.
+4. use the Application to advertise or offer to sell goods and services.
+5. circumvent, disable, or otherwise interfere with security-related features of the Application, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Application and/or the Content contained therein.
+6. engage in unauthorized framing of or linking to the Application.
+7. trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
+8. make improper use of our support services or submit false reports of abuse or misconduct.
+9. engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+10. interfere with, disrupt, or create an undue burden on the Application or the networks or services connected to the Application.
+11. attempt to impersonate another user or person or use the username of another user.
+12. sell or otherwise transfer your profile.
+13. use any information obtained from the Application in order to harass, abuse, or harm another person.
+14. use the Application as part of any effort to compete with us or otherwise use the Application and/or the Content for any revenue-generating endeavor or commercial enterprise.
+15. decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Application.
+16. attempt to bypass any measures of the Application designed to prevent or restrict access to the Application, or any portion of the Application.
+17. harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Application to you.
+18. delete the copyright or other proprietary rights notice from any Content.
+19. copy or adapt the Application&#39;s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+20. upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party&#39;s uninterrupted use and enjoyment of the Application or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Application.
+21. upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (&quot;gifs&quot;), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as &quot;spyware&quot; or &quot;passive collection mechanisms&quot; or &quot;pcms&quot;).
+22. except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Application, or using or launching any unauthorized script or other software.
+23. disparage, tarnish, or otherwise harm, in our opinion, us and/or the Application.
+24. use the Application in a manner inconsistent with any applicable laws or regulations.
+
+
+
+### USER GENERATED CONTRIBUTIONS
+
+The Application may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Application, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, &quot;Contributions&quot;). Contributions may be viewable by other users of the Application and through third-party web sites.  As such, any Contributions you transmit may be treated as non-confidential and non-proprietary.  When you create or make available any Contributions, you thereby represent and warrant that:
+
+1. the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+2. you are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Application, and other users of the Application to use your Contributions in any manner contemplated by the Application and this EULA.
+3. you have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Application and this EULA.
+4. your Contributions are not false, inaccurate, or misleading.
+5. your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+6. your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+7. your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+8. your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
+9. your Contributions do not violate any applicable law, regulation, or rule.
+10. your Contributions do not violate the privacy or publicity rights of any third party.
+11. your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
+12. your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
+13. your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
+14. your Contributions do not otherwise violate, or link to material that violates, any provision of this EULA, or any applicable law or regulation.
+
+Any use of the Application in violation of the foregoing violates this EULA and may result in, among other things, termination or suspension of your rights to use the Application.
+
