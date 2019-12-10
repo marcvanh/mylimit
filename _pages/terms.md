@@ -49,36 +49,3 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 
 You may be required to register with the Application for the use of some features. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
 
-
-
-### PROHIBITED ACTIVITIES
-
-You may not access or use the Application for any purpose other than that for which we make the Application available. The Application may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
-
-As a user of the Application, you agree not to:
-
-1. systematically retrieve data or other content from the Application to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-2. make any unauthorized use of the Application, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-3. use a buying agent or purchasing agent to make purchases on the Application.
-4. use the Application to advertise or offer to sell goods and services.
-5. circumvent, disable, or otherwise interfere with security-related features of the Application, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Application and/or the Content contained therein.
-6. engage in unauthorized framing of or linking to the Application.
-7. trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
-8. make improper use of our support services or submit false reports of abuse or misconduct.
-9. engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-10. interfere with, disrupt, or create an undue burden on the Application or the networks or services connected to the Application.
-11. attempt to impersonate another user or person or use the username of another user.
-12. sell or otherwise transfer your profile.
-13. use any information obtained from the Application in order to harass, abuse, or harm another person.
-14. use the Application as part of any effort to compete with us or otherwise use the Application and/or the Content for any revenue-generating endeavor or commercial enterprise.
-15. decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Application.
-16. attempt to bypass any measures of the Application designed to prevent or restrict access to the Application, or any portion of the Application.
-17. harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Application to you.
-18. delete the copyright or other proprietary rights notice from any Content.
-19. copy or adapt the Application&#39;s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-20. upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party&#39;s uninterrupted use and enjoyment of the Application or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Application.
-21. upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (&quot;gifs&quot;), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as &quot;spyware&quot; or &quot;passive collection mechanisms&quot; or &quot;pcms&quot;).
-22. except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Application, or using or launching any unauthorized script or other software.
-23. disparage, tarnish, or otherwise harm, in our opinion, us and/or the Application.
-24. use the Application in a manner inconsistent with any applicable laws or regulations.
-
