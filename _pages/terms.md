@@ -77,3 +77,8 @@ As a user of the Application, you agree not to:
 18. delete the copyright or other proprietary rights notice from any Content.
 19. copy or adapt the Application&#39;s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
 20. upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party&#39;s uninterrupted use and enjoyment of the Application or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Application.
+21. upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (&quot;gifs&quot;), 1x1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as &quot;spyware&quot; or &quot;passive collection mechanisms&quot; or &quot;pcms&quot;).
+22. except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Application, or using or launching any unauthorized script or other software.
+23. disparage, tarnish, or otherwise harm, in our opinion, us and/or the Application.
+24. use the Application in a manner inconsistent with any applicable laws or regulations.
+
