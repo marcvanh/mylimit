@@ -181,7 +181,7 @@ We care about data privacy and security. Please review our Privacy Policy availa
 
 We respect the intellectual property rights of others.  If you believe that any material available on or through the Application infringes upon any copyright you own or control, please immediately notify our Designated Copyright Agent using the contact information provided below (a &quot;Notification&quot;).  A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification.  Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Application infringes your copyright, you should consider first contacting an attorney.
 
-All Notifications should meet the requirements of DMCA 17 U.S.C. @sect; 512(c)(3) and include the following information: (1) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (2) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works on the Application are covered by the Notification, a representative list of such works on the Application; (3) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; (4) information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an email address at which the complaining party may be contacted; (5) a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (6)  a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed upon.
+All Notifications should meet the requirements of DMCA 17 U.S.C. &sect; 512(c)(3) and include the following information: (1) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (2) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works on the Application are covered by the Notification, a representative list of such works on the Application; (3) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; (4) information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an email address at which the complaining party may be contacted; (5) a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (6)  a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed upon.
 
 #### Counter Notification
 
@@ -269,7 +269,7 @@ If any complaint with us is not satisfactorily resolved, you can contact the Com
 
 ### LICENSED APPLICATION
 
-The Licensed Application and related documentation are &quot;Commercial Items&quot;, as that term is defined at 48 C.F.R. @sect;2.101, consisting of &quot;Commercial Computer Software&quot; and &quot;Commercial Computer Software Documentation&quot;, as such terms are used in 48 C.F.R. @sect;12.212 or 48 C.F.R. @sect;227.7202, as applicable. Consistent with 48 C.F.R. @sect;12.212 or 48 C.F.R. @sect;227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms of use herein. Unpublished-rights reserved under the copyright laws of the United States.
+The Licensed Application and related documentation are &quot;Commercial Items&quot;, as that term is defined at 48 C.F.R. &sect;2.101, consisting of &quot;Commercial Computer Software&quot; and &quot;Commercial Computer Software Documentation&quot;, as such terms are used in 48 C.F.R. &sect;12.212 or 48 C.F.R. &sect;227.7202, as applicable. Consistent with 48 C.F.R. &sect;12.212 or 48 C.F.R. &sect;227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms of use herein. Unpublished-rights reserved under the copyright laws of the United States.
 
 ### MISCELLANEOUS
 
@@ -279,12 +279,9 @@ This EULA and any policies or operating rules posted by us on the Application co
 
 In order to resolve a complaint regarding the Application or to receive further information regarding use of the Application, please contact us at:  
   
-**Name** :  MartySoft LLC
-
-**Address** :  7722 Gooseneck Court,  West Olive, MI  49460
-
-**Phone** : (616) 606-0306
-
-**E-mail** :  info@my-limit.com
+**Name** :  MartySoft LLC  
+**Address** :  7722 Gooseneck Court,  West Olive, MI  49460  
+**Phone** : (616) 606-0306  
+**E-mail** :  info@my-limit.com  
 
   
