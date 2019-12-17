@@ -10,7 +10,7 @@ presskit_download_link                    : #https://emilbaehr.com              
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : #/assets/icon.jpg # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : #My Limit                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : My Limit                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : #Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Track your Blood Alcohol Content in real-time and Never Drink and Drive!
 
