@@ -18,4 +18,34 @@
 	<link rel="stylesheet" href="/main.css">
 	<link rel="stylesheet" href="main.css">
 	<link rel="stylesheet" href="../main.css">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152991931-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		gtag('config', 'UA-152991931-1');
+
+		<!-- Global site tag (gtag.js) - Google Ads: 695008955 -->
+		gtag('config', 'AW-695008955');
+	</script>
+
+	<!-- Event snippet for App Store - click out conversion page In your html page, add the snippet and call
+		 gtag_report_conversion when someone clicks on the chosen link or button. -->
+	<script>
+		function gtag_report_conversion(url) {
+			var callback = function () {
+				if (typeof(url) != 'undefined') {
+					window.location = url;
+				}
+			};
+			gtag('event', 'conversion', { 'send_to': 'AW-695008955/IP4ICMyG77cBELv9s8sC', 'event_callback': callback });
+			return false;
+		}
+	</script>
+
+
 </head>
