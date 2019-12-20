@@ -1,3 +1,15 @@
+# Readme for my-limit.com #
+
+## local dev setup
+* install jekyll etc: https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
+* run the following in command window:
+```
+cd c:\sites\mylimit
+bundle install
+bundle exec jekyll serve
+```
+
+### (original readme follows) 
 # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
