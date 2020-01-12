@@ -12,7 +12,7 @@ presskit_download_link                    : #https://emilbaehr.com              
 app_icon                                  : #/assets/icon.jpg # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : My Limit                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : #Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Track your Blood Alcohol Content in real-time and Never Drink and Drive!
+app_description                           : Track your Alcohol use in real-time and Never Drink and Drive!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,12 +34,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Find your BAC level in seconds!
-    description                           : Use "My Limit" to quickly estimate & track your Blood Alcohol level (BAC) in real-time.
+  - title                                 : Find your Alcohol level in seconds!
+    description                           : Use "My Limit" to quickly estimate & track your Alcohol use in real-time.
     fontawesome_icon_name                 : car
-    
+
   - title                                 : Real-time countdown timers
-    description                           : Multiple timers show your estimated time to sober (0.00% BAC) and your own custom limit (e.g. 0.08% BAC). Never Drink & Drive!
+    description                           : Multiple timers show your estimated time to sober and your own custom limit. Please Never Drink & Drive!
     fontawesome_icon_name                 : stopwatch
 
   - title                                 : Choose from 100,000+ drinks!
